@@ -35,13 +35,13 @@ Repositório criado com o objetivo de detalhar os meus estudos dentro do Santand
 `$ git add *`
 
 - Comando responsável por gerenciar o historico do projeto:
-`$ git commit -m "comentario"``
+`$ git commit -m "comentario"`
 
 - Verifica como esta o status do projeto:
-`$ git status``
+`$ git status`
 
 - Caso o arquivo tenha sido movido e nao informado ao git, deve ser usado este comando para informar ao git: 
-`$ git add arquivo diretorio/	`
+`$ git add arquivo diretorio/`
 
 - Commit:  
 ` $ git commit -m "..." `
