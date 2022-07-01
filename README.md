@@ -9,6 +9,7 @@ Repositório criado com o objetivo de detalhar os meus estudos dentro do Santand
 - Comandos sendo utilizandos através do Git Bash
 
 - Acessando diretorio onde possui chave ssh:
+
 $ cd /c/Users/Fabricio Silva/.ssh
 
 - Gerando a chave ssh
